@@ -1,4 +1,5 @@
 *.pyc
 *.png
+!cGAN_python/pictures/*
 *.mat
 *.zip
